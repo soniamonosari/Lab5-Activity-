@@ -109,6 +109,6 @@ server <- function(input, output, session){
 }
 
 
-
+# deployment of the app
 shinyApp(ui = ui, server = server)
 runApp()
