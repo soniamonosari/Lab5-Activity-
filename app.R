@@ -1,4 +1,5 @@
 library(shiny)
+library(markdown)
 library(datasets)
 
 ui <- fluidPage(
